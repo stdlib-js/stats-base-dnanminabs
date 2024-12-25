@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2024-12-25)
+
+<section class="features">
+
+### Features
+
+-   [`3d7cff6`](https://github.com/stdlib-js/stdlib/commit/3d7cff6731e0593bd1077fc7084f62a9ea807acb) - add C ndarray interface and refactor implementation for `stats/base/dnanminabs` [(#4238)](https://github.com/stdlib-js/stdlib/pull/4238)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`3d7cff6`](https://github.com/stdlib-js/stdlib/commit/3d7cff6731e0593bd1077fc7084f62a9ea807acb) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanminabs` [(#4238)](https://github.com/stdlib-js/stdlib/pull/4238) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`a0eb37f`](https://github.com/stdlib-js/stdlib/commit/a0eb37f8a76369a7b0f6bec74affdf65d8a33b0c) - **refactor:** update `stats/base/dnanminabs` native addon from C++ to C [(#4126)](https://github.com/stdlib-js/stdlib/pull/4126) _(by Vivek maurya)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -27,8 +38,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Vivek maurya
