@@ -313,7 +313,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-base/dminabs`][@stdlib/stats/base/dminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dminabs`][@stdlib/stats/strided/dminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dnanmaxabs`][@stdlib/stats/base/dnanmaxabs]</span><span class="delimiter">: </span><span class="description">calculate the maximum absolute value of a double-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dnanmin`][@stdlib/stats/base/dnanmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a double-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanminabs`][@stdlib/stats/base/nanminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a strided array, ignoring NaN values.</span>
@@ -401,7 +401,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dminabs]: https://github.com/stdlib-js/stats-base-dminabs
+[@stdlib/stats/strided/dminabs]: https://github.com/stdlib-js/stats-strided-dminabs
 
 [@stdlib/stats/base/dnanmaxabs]: https://github.com/stdlib-js/stats-base-dnanmaxabs
 
