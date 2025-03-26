@@ -315,7 +315,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dminabs`][@stdlib/stats/strided/dminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dnanmaxabs`][@stdlib/stats/strided/dnanmaxabs]</span><span class="delimiter">: </span><span class="description">calculate the maximum absolute value of a double-precision floating-point strided array, ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/dnanmin`][@stdlib/stats/base/dnanmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a double-precision floating-point strided array, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dnanmin`][@stdlib/stats/strided/dnanmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a double-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanminabs`][@stdlib/stats/base/nanminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanminabs`][@stdlib/stats/base/snanminabs]</span><span class="delimiter">: </span><span class="description">calculate the minimum absolute value of a single-precision floating-point strided array, ignoring NaN values.</span>
 
@@ -405,7 +405,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dnanmaxabs]: https://github.com/stdlib-js/stats-strided-dnanmaxabs
 
-[@stdlib/stats/base/dnanmin]: https://github.com/stdlib-js/stats-base-dnanmin
+[@stdlib/stats/strided/dnanmin]: https://github.com/stdlib-js/stats-strided-dnanmin
 
 [@stdlib/stats/base/nanminabs]: https://github.com/stdlib-js/stats-base-nanminabs
 

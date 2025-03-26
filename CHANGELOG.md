@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-21)
+## Unreleased (2025-03-26)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`6050514`](https://github.com/stdlib-js/stdlib/commit/6050514b3f4b296931f4f614b56343fecc48ccda) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`472883d`](https://github.com/stdlib-js/stdlib/commit/472883d6f2df01f1ed09c4fab80fd7068b8af214) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b620840`](https://github.com/stdlib-js/stdlib/commit/b620840cb203f071838abc1ad3d41700f7547d9f) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`b78e8ba`](https://github.com/stdlib-js/stdlib/commit/b78e8ba6bdd1b97192878d9b780260a67a46be4d) - **docs:** update function description in JS benchmarks in `stats/base/*` [(#5135)](https://github.com/stdlib-js/stdlib/pull/5135) _(by Aayush Khanna)_
